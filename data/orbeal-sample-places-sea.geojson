@@ -1,0 +1,995 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.1312,
+     -8.3702
+    ]
+   },
+   "properties": {
+    "id": "BAL-01",
+    "name": "Jatiluwih Rice Terraces",
+    "local_name": "Sawah Jatiluwih",
+    "country": "Indonesia",
+    "city": "Bali",
+    "area": "Penebel, Tabanan",
+    "category": "Nature",
+    "subcategory": "Rice terraces",
+    "pin_basis": "Visitor area at the main terraces (OSM 'Jatiluwih Rice Terraces')",
+    "pin_status": "Moved",
+    "why_it_matters": "UNESCO-listed rice terraces in Bali's cool central highlands, still watered by the centuries-old subak system.",
+    "description": "Terraces fan out below the slopes of Mount Batukaru, part of the Cultural Landscape of Bali Province listed by UNESCO in 2012. The fields are still farmed and irrigated through subak, a cooperative system that shares water between farmers through canals and water temples. Marked trails range from short loops to walks of a few hours.",
+    "local_tip": "Come before 9 am, when the light is soft and the tour buses haven't arrived. The longer trails see far fewer people than the short loop by the road.",
+    "best_time": "Early morning",
+    "time_needed": "1.5-3 hrs",
+    "cost_level": "$",
+    "good_for": "Walking; photography; slow travel",
+    "heads_up": "Paths get muddy after rain. Stay on the trails: these are working fields.",
+    "wikidata": "Q14632658",
+    "sources": "https://whc.unesco.org/en/list/1194",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.59261,
+     -8.27391
+    ]
+   },
+   "properties": {
+    "id": "BAL-02",
+    "name": "USAT Liberty Wreck",
+    "local_name": "Bangkai Kapal Liberty",
+    "country": "Indonesia",
+    "city": "Bali",
+    "area": "Tulamben, Karangasem",
+    "category": "Water",
+    "subcategory": "Shore dive & snorkel",
+    "pin_basis": "Wreck site off the beach (OSM tourism=attraction)",
+    "pin_status": "Critical",
+    "why_it_matters": "A WWII cargo ship lying just off a black-pebble beach, reachable by snorkelers and divers straight from the shore.",
+    "description": "The US Army transport Liberty was torpedoed in 1942 and beached at Tulamben; tremors from the 1963 eruption of Mount Agung later slid it off the beach into deeper water. It now lies on a slope from a few meters to around 30 m deep, covered in coral and full of reef fish. No boat needed: you walk in from the beach.",
+    "local_tip": "Get in at first light to share the wreck with fish instead of dive groups. Local porters carry tanks down the pebbles for a small fee.",
+    "best_time": "Early morning",
+    "time_needed": "Half day",
+    "cost_level": "$",
+    "good_for": "Snorkeling; freediving; diving",
+    "heads_up": "The pebble entry is slippery. Wear booties.",
+    "wikidata": "Q2468064",
+    "sources": "https://en.wikipedia.org/wiki/USAT_Liberty",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.31621,
+     -8.41436
+    ]
+   },
+   "properties": {
+    "id": "BAL-03",
+    "name": "Tirta Empul Temple",
+    "local_name": "Pura Tirta Empul",
+    "country": "Indonesia",
+    "city": "Bali",
+    "area": "Tampaksiring, Gianyar",
+    "category": "Culture",
+    "subcategory": "Water temple",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "Reviewed",
+    "why_it_matters": "A Hindu water temple built around a sacred spring, where Balinese come to purify themselves in its bathing pools.",
+    "description": "Founded over a thousand years ago around a spring that still feeds a row of carved spouts. Balinese Hindus bathe under the spouts in turn as a ritual of purification, and visitors can join if they follow the custom. It is a working temple, so expect ceremonies, offerings and a respectful pace.",
+    "local_tip": "Arrive at opening time; by mid-morning the pools are crowded. A local guide can explain the order of the spouts.",
+    "best_time": "Early morning",
+    "time_needed": "1-1.5 hrs",
+    "cost_level": "$",
+    "good_for": "Culture; ritual; architecture",
+    "heads_up": "Follow the temple dress code and the rules posted at the entrance. Sarongs are available on site.",
+    "wikidata": "Q7809287",
+    "sources": "https://en.wikipedia.org/wiki/Tirta_Empul",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.2546,
+     -8.5038
+    ]
+   },
+   "properties": {
+    "id": "BAL-04",
+    "name": "Campuhan Ridge Walk",
+    "local_name": "Bukit Campuhan",
+    "country": "Indonesia",
+    "city": "Bali",
+    "area": "Ubud, Gianyar",
+    "category": "Nature",
+    "subcategory": "Walk",
+    "pin_basis": "Trailhead at Pura Gunung Lebah, where the walk starts",
+    "pin_status": "Moved",
+    "why_it_matters": "A free, easy ridge-top path out of Ubud, through tall grass with river valleys falling away on both sides.",
+    "description": "The paved path starts beside the small temple of Pura Gunung Lebah, at the river confluence just west of central Ubud, and climbs gently along a grassy ridge. After around 2 km it reaches cafes and rice fields at Bangkiang Sidem, where you can turn back or keep walking.",
+    "local_tip": "Start at sunrise: there is almost no shade, and the light over the valleys is best early.",
+    "best_time": "Sunrise or late afternoon",
+    "time_needed": "1-2 hrs",
+    "cost_level": "Free",
+    "good_for": "Walking; sunrise; families",
+    "heads_up": "Bring water. Very little shade after 9 am.",
+    "wikidata": "",
+    "sources": "https://www.openstreetmap.org/",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.09685,
+     -8.25706
+    ]
+   },
+   "properties": {
+    "id": "BAL-05",
+    "name": "Lake Tamblingan",
+    "local_name": "Danau Tamblingan",
+    "country": "Indonesia",
+    "city": "Bali",
+    "area": "Munduk, Buleleng",
+    "category": "Nature",
+    "subcategory": "Crater lake",
+    "pin_basis": "Lake feature (shore access recommended for production)",
+    "pin_status": "OK",
+    "why_it_matters": "A quiet, forest-ringed lake in Bali's cool northern highlands, still fished from wooden dugout canoes.",
+    "description": "One of three lakes in an ancient caldera, Tamblingan is the least developed: no big resorts, just forest, small shrines on the shore and fishermen in narrow canoes. Local guides paddle visitors across, and trails climb through the forest to temples above the lake.",
+    "local_tip": "Mornings are often misty and still. Hire a canoe guide from the community group at the shore.",
+    "best_time": "Early morning",
+    "time_needed": "2-3 hrs",
+    "cost_level": "$",
+    "good_for": "Canoeing; nature; slow travel",
+    "heads_up": "It's noticeably cooler up here. Bring a layer.",
+    "wikidata": "Q17999895",
+    "sources": "https://en.wikipedia.org/wiki/Lake_Tamblingan",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.20382,
+     -7.60796
+    ]
+   },
+   "properties": {
+    "id": "YOG-01",
+    "name": "Borobudur",
+    "local_name": "Candi Borobudur",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "area": "Magelang, Central Java",
+    "category": "Culture",
+    "subcategory": "Buddhist temple",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "The world's largest Buddhist monument, a 9th-century stone mandala rising above the Kedu Plain.",
+    "description": "Built in the 8th-9th centuries, Borobudur climbs through nine stacked platforms lined with more than 2,600 relief panels and over 500 Buddha statues, ending at a central stupa. It is a UNESCO World Heritage Site and still a place of pilgrimage, especially during Vesak.",
+    "local_tip": "Climbing the upper levels is limited by a daily quota and guided time slots. Book ahead; special sandals are provided for the climb.",
+    "best_time": "Early morning",
+    "time_needed": "3-4 hrs",
+    "cost_level": "$$$",
+    "good_for": "History; architecture; sunrise",
+    "heads_up": "Climb tickets sell out. Check the official site before you go.",
+    "wikidata": "Q42798",
+    "sources": "https://whc.unesco.org/en/list/592",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.49153,
+     -7.75223
+    ]
+   },
+   "properties": {
+    "id": "YOG-02",
+    "name": "Prambanan",
+    "local_name": "Candi Prambanan",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "area": "Sleman, Yogyakarta",
+    "category": "Culture",
+    "subcategory": "Hindu temple",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "A 9th-century Hindu temple compound of soaring stone spires dedicated to Shiva, Vishnu and Brahma.",
+    "description": "Indonesia's largest Hindu temple site, built in the 9th century. The central Shiva temple rises around 47 m, and its walls carry reliefs of the Ramayana. Earthquakes have damaged the site over the centuries, most recently in 2006, and restoration continues. It is a UNESCO World Heritage Site.",
+    "local_tip": "Stay for sunset, then watch the open-air Ramayana Ballet staged nearby with the temples behind the stage (seasonal; check dates).",
+    "best_time": "Late afternoon",
+    "time_needed": "2-3 hrs",
+    "cost_level": "$$$",
+    "good_for": "History; architecture; performance",
+    "heads_up": "Hot and exposed at midday.",
+    "wikidata": "Q47721",
+    "sources": "https://whc.unesco.org/en/list/642",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.35915,
+     -7.81003
+    ]
+   },
+   "properties": {
+    "id": "YOG-03",
+    "name": "Taman Sari Water Castle",
+    "local_name": "Taman Sari",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "area": "Kraton, Yogyakarta",
+    "category": "Culture",
+    "subcategory": "Royal garden",
+    "pin_basis": "Bathing complex entrance (OSM 'Taman Sari Water Castle')",
+    "pin_status": "Moved",
+    "why_it_matters": "The 18th-century pleasure garden of Yogyakarta's sultans, with bathing pools, tunnels and an underground mosque.",
+    "description": "Built in the mid-1700s for Sultan Hamengkubuwono I, Taman Sari once combined pools, pavilions and an artificial lake. The bathing complex has been restored. Around it, the old grounds have become a lived-in neighborhood of narrow lanes, batik workshops and the circular underground mosque of Sumur Gumuling.",
+    "local_tip": "After the pools, ask the way to Sumur Gumuling through the kampung lanes. A local guide makes the maze much easier.",
+    "best_time": "Morning",
+    "time_needed": "1-2 hrs",
+    "cost_level": "$",
+    "good_for": "History; architecture; photography",
+    "heads_up": "The lanes are residential. Keep voices down.",
+    "wikidata": "Q3135945",
+    "sources": "https://en.wikipedia.org/wiki/Taman_Sari_(Yogyakarta)",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.36387,
+     -7.8076
+    ]
+   },
+   "properties": {
+    "id": "YOG-04",
+    "name": "Kraton Yogyakarta",
+    "local_name": "Keraton Ngayogyakarta Hadiningrat",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "area": "Yogyakarta",
+    "category": "Culture",
+    "subcategory": "Royal palace",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "Reviewed",
+    "why_it_matters": "The sultan's palace, still a royal residence and the cultural heart of Javanese Yogyakarta.",
+    "description": "Built in the 1750s, the kraton is both the home of the reigning sultan and a museum of court life: pavilions, heirlooms, gamelan sets and portraits. Yogyakarta's sultan also serves as the region's governor, so this is a living institution, not a relic. Short gamelan, dance or wayang performances are often held in the mornings.",
+    "local_tip": "Go in the morning: the palace closes in the early afternoon, and the performance schedule changes by day.",
+    "best_time": "Morning",
+    "time_needed": "1.5-2 hrs",
+    "cost_level": "$",
+    "good_for": "Culture; history; performance",
+    "heads_up": "Dress modestly. Parts of the palace are off-limits.",
+    "wikidata": "Q10778917",
+    "sources": "https://en.wikipedia.org/wiki/Kraton_Ngayogyakarta_Hadiningrat",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.63824,
+     -8.02863
+    ]
+   },
+   "properties": {
+    "id": "YOG-05",
+    "name": "Jomblang Cave",
+    "local_name": "Goa Jomblang",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "area": "Semanu, Gunungkidul",
+    "category": "Adventure",
+    "subcategory": "Vertical cave",
+    "pin_basis": "Cave entrance (OSM natural=cave_entrance)",
+    "pin_status": "Critical",
+    "why_it_matters": "A collapsed sinkhole you descend by rope, where the midday sun pours through the roof as a column of light.",
+    "description": "Jomblang is a vertical cave in the karst hills of Gunungkidul. Visitors are lowered around 60 m on ropes by a professional team, then walk through a muddy passage to Grubug Cave, where a hole in the ceiling sends a shaft of sunlight to the floor, known locally as 'heaven's light'.",
+    "local_tip": "The light beam is strongest around midday on clear days. Book the official tour in advance: daily groups are limited.",
+    "best_time": "Late morning, dry season",
+    "time_needed": "Half day (+2 hrs drive from Yogyakarta)",
+    "cost_level": "$$$",
+    "good_for": "Adventure; photography",
+    "heads_up": "Not for travelers who are claustrophobic or injured. You will get muddy.",
+    "wikidata": "Q11019425",
+    "sources": "https://www.openstreetmap.org/",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     98.92218,
+     18.80501
+    ]
+   },
+   "properties": {
+    "id": "CNX-01",
+    "name": "Wat Phra That Doi Suthep",
+    "local_name": "วัดพระธาตุดอยสุเทพ",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "area": "Doi Suthep, Chiang Mai",
+    "category": "Culture",
+    "subcategory": "Mountain temple",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "Chiang Mai's most sacred temple, a golden chedi on the mountain above the city.",
+    "description": "According to legend, the site was chosen in the 14th century by a white elephant carrying a relic of the Buddha, which climbed the mountain and died here. A naga-lined staircase of about 300 steps leads up to a gilded chedi and terraces looking over the city; a funicular is the easier alternative.",
+    "local_tip": "Go at opening or late afternoon to miss the tour buses. Shared red songthaew trucks run up from the Chiang Mai University area.",
+    "best_time": "Early morning",
+    "time_needed": "1.5-2 hrs",
+    "cost_level": "$",
+    "good_for": "Culture; views",
+    "heads_up": "Temple dress code: shoulders and knees covered.",
+    "wikidata": "Q1517698",
+    "sources": "https://en.wikipedia.org/wiki/Wat_Phra_That_Doi_Suthep",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     98.98678,
+     18.78714
+    ]
+   },
+   "properties": {
+    "id": "CNX-02",
+    "name": "Wat Chedi Luang",
+    "local_name": "วัดเจดีย์หลวง",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "area": "Old City, Chiang Mai",
+    "category": "Culture",
+    "subcategory": "Temple ruin",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "A massive, half-ruined brick chedi in the middle of Chiang Mai's Old City.",
+    "description": "Construction began in the late 14th century, and at its height the chedi was among the tallest structures in the Lanna kingdom, until an earthquake in the 16th century brought down its upper section. The Emerald Buddha was once housed here. Today monks hold informal 'monk chat' sessions with visitors.",
+    "local_tip": "Look for the monk chat tables in the afternoon. It's a genuine conversation, not a performance.",
+    "best_time": "Afternoon",
+    "time_needed": "1 hr",
+    "cost_level": "$",
+    "good_for": "History; architecture; conversation",
+    "heads_up": "Temple dress code applies.",
+    "wikidata": "Q1454288",
+    "sources": "https://en.wikipedia.org/wiki/Wat_Chedi_Luang",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     99.00053,
+     18.79024
+    ]
+   },
+   "properties": {
+    "id": "CNX-03",
+    "name": "Warorot Market",
+    "local_name": "ตลาดวโรรส (Kad Luang)",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "area": "Chiang Mai",
+    "category": "Food",
+    "subcategory": "Local market",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "Chiang Mai's big local market, the place to find northern Thai foods to eat on the spot or take home.",
+    "description": "Known locally as Kad Luang, the 'great market', Warorot spreads over several floors near the Ping River. The ground floors are food: sai ua sausage, nam phrik chili dips, pork crackling and dried fruit. Upstairs is clothing and household goods, and the flower market runs along the river next door.",
+    "local_tip": "Come hungry in the morning and buy small portions from several stalls.",
+    "best_time": "Morning",
+    "time_needed": "1-2 hrs",
+    "cost_level": "$",
+    "good_for": "Food; local life; souvenirs",
+    "heads_up": "Busy and hot by midday.",
+    "wikidata": "Q20558642",
+    "sources": "https://en.wikipedia.org/wiki/Warorot_Market",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     98.48746,
+     18.58848
+    ]
+   },
+   "properties": {
+    "id": "CNX-04",
+    "name": "Doi Inthanon",
+    "local_name": "ดอยอินทนนท์",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "area": "Chom Thong, Chiang Mai",
+    "category": "Nature",
+    "subcategory": "Mountain & national park",
+    "pin_basis": "Summit (road access)",
+    "pin_status": "Reviewed",
+    "why_it_matters": "Thailand's highest mountain, with cloud forest, waterfalls and twin royal pagodas near the summit.",
+    "description": "At 2,565 m, Doi Inthanon is the highest point in Thailand and the heart of a national park about two hours' drive from Chiang Mai. A road reaches the summit area, where boardwalks loop through mossy cloud forest. On the way up are big waterfalls such as Wachirathan and the twin pagodas built for the King and Queen.",
+    "local_tip": "The Kew Mae Pan nature trail requires a local guide and usually closes in the rainy season. Start early for clear views.",
+    "best_time": "Nov-Feb",
+    "time_needed": "Full day",
+    "cost_level": "$$",
+    "good_for": "Hiking; birding; views",
+    "heads_up": "Very cold at dawn in the cool season.",
+    "wikidata": "Q1140075",
+    "sources": "https://en.wikipedia.org/wiki/Doi_Inthanon",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     98.96458,
+     18.79247
+    ]
+   },
+   "properties": {
+    "id": "CNX-05",
+    "name": "Nimmanhaemin Road",
+    "local_name": "ถนนนิมมานเหมินท์",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "area": "Chiang Mai",
+    "category": "Neighborhood",
+    "subcategory": "Cafes & design",
+    "pin_basis": "Main road; cafes spread along the sois",
+    "pin_status": "Verified (single source)",
+    "why_it_matters": "Chiang Mai's cafe and design district, lined with coffee shops, galleries and small boutiques.",
+    "description": "Called 'Nimman' locally, the road and its numbered sois west of the Old City are where Chiang Mai's creative, student and remote-work crowds meet. Expect specialty coffee from northern Thai beans, concept stores and the One Nimman complex at the main junction.",
+    "local_tip": "Explore the side sois rather than the main road. The best small cafes are tucked away.",
+    "best_time": "Afternoon & evening",
+    "time_needed": "2-3 hrs",
+    "cost_level": "$$",
+    "good_for": "Coffee; remote work; shopping",
+    "heads_up": "Traffic is heavy on weekend evenings.",
+    "wikidata": "",
+    "sources": "https://www.openstreetmap.org/",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     108.326,
+     15.87715
+    ]
+   },
+   "properties": {
+    "id": "HOI-01",
+    "name": "Japanese Covered Bridge",
+    "local_name": "Chùa Cầu",
+    "country": "Vietnam",
+    "city": "Hoi An",
+    "area": "Hoi An Ancient Town",
+    "category": "Culture",
+    "subcategory": "Historic bridge",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "Hoi An's 16th-century covered bridge, the symbol of the old trading town.",
+    "description": "Built in the 1590s by the town's Japanese merchant community, the wooden bridge has a small temple built into one side. It is pictured on Vietnam's 20,000 dong note and reopened in 2024 after a major restoration.",
+    "local_tip": "See it early in the morning, before the crowds. Crossing requires the Old Town ticket.",
+    "best_time": "Early morning",
+    "time_needed": "15-30 min",
+    "cost_level": "$",
+    "good_for": "History; photography",
+    "heads_up": "Very busy from late morning onward.",
+    "wikidata": "Q1091054",
+    "sources": "https://en.wikipedia.org/wiki/Japanese_Bridge",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     108.32866,
+     15.87713
+    ]
+   },
+   "properties": {
+    "id": "HOI-02",
+    "name": "Hoi An Ancient Town",
+    "local_name": "Phố cổ Hội An",
+    "country": "Vietnam",
+    "city": "Hoi An",
+    "area": "Hoi An",
+    "category": "Culture",
+    "subcategory": "Historic quarter",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "A remarkably intact 15th-19th century trading port of shophouses, assembly halls and lantern-lit lanes.",
+    "description": "Hoi An was a major Southeast Asian trading port, and its wooden shophouses, Chinese assembly halls and Japanese bridge survive almost intact. The town was listed by UNESCO in 1999. Much of the center is closed to traffic at set hours, and the river glows with lanterns at night.",
+    "local_tip": "Walk the lanes at 6-7 am, skip the midday heat, and come back after dark for the lanterns. One Old Town ticket covers a set number of historic sites.",
+    "best_time": "Early morning & evening",
+    "time_needed": "Half day",
+    "cost_level": "$",
+    "good_for": "History; food; evening walks",
+    "heads_up": "The old town floods in the rainy season (roughly Oct-Dec).",
+    "wikidata": "Q5965459",
+    "sources": "https://whc.unesco.org/en/list/948",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     108.33926,
+     15.91432
+    ]
+   },
+   "properties": {
+    "id": "HOI-03",
+    "name": "An Bang Beach",
+    "local_name": "Bãi biển An Bàng",
+    "country": "Vietnam",
+    "city": "Hoi An",
+    "area": "Hoi An",
+    "category": "Beach",
+    "subcategory": "Beach",
+    "pin_basis": "Main beach access at the end of Nguyen Phan Vinh street",
+    "pin_status": "Critical",
+    "why_it_matters": "Hoi An's laid-back beach, an easy bike ride from the old town.",
+    "description": "A long sandy beach backed by small restaurants and loungers, popular with both visitors and Hoi An locals. The sea is usually calmer in the dry months and rough in the rainy season.",
+    "local_tip": "Cycle out from town on the back roads through the rice fields, stopping at Tra Que on the way.",
+    "best_time": "Morning or late afternoon",
+    "time_needed": "Half day",
+    "cost_level": "Free",
+    "good_for": "Swimming; cycling; seafood",
+    "heads_up": "Strong currents in the rainy season. Swim where lifeguards are posted.",
+    "wikidata": "",
+    "sources": "https://www.openstreetmap.org/",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     108.33773,
+     15.90218
+    ]
+   },
+   "properties": {
+    "id": "HOI-04",
+    "name": "Tra Que Vegetable Village",
+    "local_name": "Làng rau Trà Quế",
+    "country": "Vietnam",
+    "city": "Hoi An",
+    "area": "Hoi An",
+    "category": "Food",
+    "subcategory": "Farming village",
+    "pin_basis": "Village entrance / ticket point",
+    "pin_status": "Verified (single source)",
+    "why_it_matters": "A long-established herb and vegetable village between Hoi An and An Bang Beach.",
+    "description": "Farmers here grow many of the fresh herbs that go into Hoi An's dishes, traditionally fertilizing the beds with seaweed from the nearby lagoon. Visitors can walk the plots, join a short farming session or take a cooking class.",
+    "local_tip": "Stop on the bike ride to the beach in the late afternoon, when farmers water the beds.",
+    "best_time": "Late afternoon",
+    "time_needed": "1-2 hrs",
+    "cost_level": "$",
+    "good_for": "Food; cycling; cooking classes",
+    "heads_up": "Walk on the paths between the beds, not on them.",
+    "wikidata": "",
+    "sources": "https://www.openstreetmap.org/",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     108.12345,
+     15.76552
+    ]
+   },
+   "properties": {
+    "id": "HOI-05",
+    "name": "My Son Sanctuary",
+    "local_name": "Thánh địa Mỹ Sơn",
+    "country": "Vietnam",
+    "city": "Hoi An",
+    "area": "Duy Xuyen, near Hoi An",
+    "category": "Culture",
+    "subcategory": "Temple ruins",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "Critical",
+    "why_it_matters": "Jungle-ringed ruins of Cham Hindu temples, built over nearly a thousand years.",
+    "description": "In a valley about an hour from Hoi An, My Son was a religious center of the Champa kingdom from the 4th to the 13th century. Its brick tower-temples, most dedicated to Shiva, were badly damaged during the Vietnam War; the surviving groups are a UNESCO World Heritage Site.",
+    "local_tip": "Arrive at opening to see the ruins in morning light, before the heat and the tour groups.",
+    "best_time": "Early morning",
+    "time_needed": "Half day",
+    "cost_level": "$$",
+    "good_for": "History; archaeology",
+    "heads_up": "Little shade. Bring water and a hat.",
+    "wikidata": "Q391406",
+    "sources": "https://whc.unesco.org/en/list/949",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.99207,
+     19.74974
+    ]
+   },
+   "properties": {
+    "id": "LPQ-01",
+    "name": "Kuang Si Falls",
+    "local_name": "ຕາດກວາງຊີ",
+    "country": "Laos",
+    "city": "Luang Prabang",
+    "area": "South of Luang Prabang",
+    "category": "Nature",
+    "subcategory": "Waterfall",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "Turquoise, multi-tiered falls in the forest south of Luang Prabang, with swimming pools between the cascades.",
+    "description": "About 30 km south of town, mineral-rich water spills over limestone terraces into milky-blue pools. Paths lead past the swimming areas to the main drop, and steep trails climb to the top. At the entrance is a rescue center for Asiatic black bears.",
+    "local_tip": "Go at opening or late afternoon. The lower pools are quietest early.",
+    "best_time": "Morning",
+    "time_needed": "Half day",
+    "cost_level": "$",
+    "good_for": "Swimming; nature; photography",
+    "heads_up": "Swim only in the designated pools. Trails are slippery.",
+    "wikidata": "Q2584261",
+    "sources": "https://en.wikipedia.org/wiki/Kuang_Si_Falls",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.13694,
+     19.89026
+    ]
+   },
+   "properties": {
+    "id": "LPQ-02",
+    "name": "Mount Phousi",
+    "local_name": "ພູສີ",
+    "country": "Laos",
+    "city": "Luang Prabang",
+    "area": "Luang Prabang",
+    "category": "Viewpoint",
+    "subcategory": "Hill temple",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "The hill in the middle of Luang Prabang, topped by a gilded stupa and wide views of the Mekong.",
+    "description": "A climb of a few hundred steps from the main street leads to That Chomsi, a small stupa at the summit, with views over the old town's roofs to the Mekong and Nam Khan rivers. Shrines and Buddha images line the paths on the way up.",
+    "local_tip": "Sunset is packed. Sunrise is quieter and just as beautiful.",
+    "best_time": "Sunrise",
+    "time_needed": "1 hr",
+    "cost_level": "$",
+    "good_for": "Views; sunrise",
+    "heads_up": "Steep steps. Go slowly in the heat.",
+    "wikidata": "Q7187956",
+    "sources": "https://en.wikipedia.org/wiki/Mount_Phou_Si",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.14316,
+     19.89746
+    ]
+   },
+   "properties": {
+    "id": "LPQ-03",
+    "name": "Wat Xieng Thong",
+    "local_name": "ວັດຊຽງທອງ",
+    "country": "Laos",
+    "city": "Luang Prabang",
+    "area": "Luang Prabang",
+    "category": "Culture",
+    "subcategory": "Temple",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "Luang Prabang's most celebrated temple, with sweeping layered roofs and a glass-mosaic 'tree of life'.",
+    "description": "Built around 1560 under King Setthathirath, Wat Xieng Thong is a classic example of Luang Prabang-style architecture, with roofs that sweep almost to the ground. On the back wall of the main hall, a mosaic of colored glass depicts a tree of life. It stands at the tip of the peninsula where the Nam Khan meets the Mekong.",
+    "local_tip": "Visit in the late afternoon, when the light warms the gold.",
+    "best_time": "Late afternoon",
+    "time_needed": "45 min",
+    "cost_level": "$",
+    "good_for": "Architecture; history",
+    "heads_up": "Shoulders and knees covered.",
+    "wikidata": "Q2671118",
+    "sources": "https://en.wikipedia.org/wiki/Wat_Xieng_Thong",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.13643,
+     19.89137
+    ]
+   },
+   "properties": {
+    "id": "LPQ-04",
+    "name": "Luang Prabang Night Market",
+    "local_name": "ຕະຫຼາດມືດ",
+    "country": "Laos",
+    "city": "Luang Prabang",
+    "area": "Sisavangvong Road",
+    "category": "Shopping",
+    "subcategory": "Night market",
+    "pin_basis": "Main market stretch on Sisavangvong Road",
+    "pin_status": "Verified (single source)",
+    "why_it_matters": "An evening market of handicrafts, textiles and street food along the old town's main street.",
+    "description": "Each evening the main street closes to traffic and fills with red-roofed stalls selling Hmong embroidery, woven scarves, paper lanterns and coffee. A narrow food alley nearby serves buffet plates and grilled river fish.",
+    "local_tip": "Bargain gently: prices are already low, and many sellers are the makers.",
+    "best_time": "Evening",
+    "time_needed": "1-2 hrs",
+    "cost_level": "Free",
+    "good_for": "Crafts; street food",
+    "heads_up": "Cash only at most stalls.",
+    "wikidata": "",
+    "sources": "https://www.openstreetmap.org/",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.21097,
+     20.04907
+    ]
+   },
+   "properties": {
+    "id": "LPQ-05",
+    "name": "Pak Ou Caves",
+    "local_name": "ຖ້ຳຕິ່ງ",
+    "country": "Laos",
+    "city": "Luang Prabang",
+    "area": "Mekong, north of Luang Prabang",
+    "category": "Culture",
+    "subcategory": "River caves",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "Two Mekong river caves filled with thousands of Buddha images, reached by slow boat.",
+    "description": "Where the Nam Ou meets the Mekong, two caves in a limestone cliff hold thousands of Buddha statues left by worshippers over centuries. Most visitors arrive by boat from Luang Prabang, about two hours upstream, often stopping at a riverside village on the way.",
+    "local_tip": "Bring a flashlight for the upper cave.",
+    "best_time": "Morning departure",
+    "time_needed": "Half day",
+    "cost_level": "$",
+    "good_for": "Culture; river trips",
+    "heads_up": "Steps up to the upper cave are steep.",
+    "wikidata": "Q2671098",
+    "sources": "https://en.wikipedia.org/wiki/Pak_Ou_Caves",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.27389,
+     5.39972
+    ]
+   },
+   "properties": {
+    "id": "PEN-01",
+    "name": "Kek Lok Si Temple",
+    "local_name": "極樂寺",
+    "country": "Malaysia",
+    "city": "Penang",
+    "area": "Air Itam, Penang",
+    "category": "Culture",
+    "subcategory": "Buddhist temple",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "Reviewed",
+    "why_it_matters": "One of Southeast Asia's largest Buddhist temples, climbing the hillside above Air Itam.",
+    "description": "Founded in the 1890s, Kek Lok Si mixes Chinese, Thai and Burmese styles; its seven-tiered pagoda combines all three. Higher up, a bronze statue of Kuan Yin about 30 m tall stands under an open pavilion, reached by an inclined lift.",
+    "local_tip": "Visit in the evening during the Chinese New Year season, when thousands of lights decorate the temple.",
+    "best_time": "Late afternoon",
+    "time_needed": "2 hrs",
+    "cost_level": "$",
+    "good_for": "Culture; architecture; views",
+    "heads_up": "Lots of stairs. The inclined lift helps.",
+    "wikidata": "Q822518",
+    "sources": "https://en.wikipedia.org/wiki/Kek_Lok_Si",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.27734,
+     5.40826
+    ]
+   },
+   "properties": {
+    "id": "PEN-02",
+    "name": "Penang Hill",
+    "local_name": "Bukit Bendera",
+    "country": "Malaysia",
+    "city": "Penang",
+    "area": "Air Itam, Penang",
+    "category": "Viewpoint",
+    "subcategory": "Hill & funicular",
+    "pin_basis": "Funicular lower station, where visits start (summit is ~2 km away)",
+    "pin_status": "Moved",
+    "why_it_matters": "A cool hilltop above George Town, reached by a funicular railway that has run since 1923.",
+    "description": "The funicular climbs to the summit area at around 735 m (the hill tops out at 833 m), where colonial bungalows, gardens and The Habitat rainforest walk look over George Town and the mainland. The pin sits at the lower station, where every visit starts.",
+    "local_tip": "Avoid weekends and public holidays, when funicular queues can be long. Go up for sunset and stay for the city lights.",
+    "best_time": "Late afternoon",
+    "time_needed": "Half day",
+    "cost_level": "$$",
+    "good_for": "Views; nature; families",
+    "heads_up": "Summit is cooler. Bring a light layer for the evening.",
+    "wikidata": "Q1094967",
+    "sources": "https://en.wikipedia.org/wiki/Penang_Hill",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.33759,
+     5.41427
+    ]
+   },
+   "properties": {
+    "id": "PEN-03",
+    "name": "Khoo Kongsi",
+    "local_name": "Leong San Tong Khoo Kongsi",
+    "country": "Malaysia",
+    "city": "Penang",
+    "area": "George Town",
+    "category": "Culture",
+    "subcategory": "Clan house",
+    "pin_basis": "Main site (OSM feature)",
+    "pin_status": "OK",
+    "why_it_matters": "The most ornate Chinese clan house in George Town, a temple of carved wood, gold and stone.",
+    "description": "Built by the Khoo clan of Hokkien merchants, the present clan temple dates from 1906, after a fire destroyed an earlier building. Set inside a square of terraced houses, it blazes with carvings, gilded panels and painted beams. It lies within George Town's UNESCO World Heritage area.",
+    "local_tip": "Start in the small museum downstairs; it helps decode the carvings upstairs.",
+    "best_time": "Morning",
+    "time_needed": "1 hr",
+    "cost_level": "$",
+    "good_for": "History; architecture",
+    "heads_up": "Occasionally closed for private clan events.",
+    "wikidata": "Q6402268",
+    "sources": "https://en.wikipedia.org/wiki/Khoo_Kongsi",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.33643,
+     5.41577
+    ]
+   },
+   "properties": {
+    "id": "PEN-04",
+    "name": "Armenian Street",
+    "local_name": "Lebuh Armenian",
+    "country": "Malaysia",
+    "city": "Penang",
+    "area": "George Town",
+    "category": "Neighborhood",
+    "subcategory": "Heritage street & street art",
+    "pin_basis": "Street (murals spread along it)",
+    "pin_status": "Reviewed",
+    "why_it_matters": "A heritage street of shophouses and the starting point for George Town's famous street art.",
+    "description": "Named for the Armenian merchants who once lived here, the street is lined with restored shophouses, small museums and cafes. It is home to 'Kids on Bicycle', one of the murals Lithuanian artist Ernest Zacharevic painted in 2012 that turned George Town's walls into an open-air gallery.",
+    "local_tip": "Walk it before 9 am for photos without queues. Many murals are in the side lanes, not just on the main street.",
+    "best_time": "Early morning",
+    "time_needed": "1-2 hrs",
+    "cost_level": "Free",
+    "good_for": "Street art; cafes; walking",
+    "heads_up": "Narrow street with traffic. Watch for scooters while taking photos.",
+    "wikidata": "Q28936939",
+    "sources": "https://en.wikipedia.org/wiki/Armenian_Street,_Penang",
+    "last_verified": "2026-10-17"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.34003,
+     5.41197
+    ]
+   },
+   "properties": {
+    "id": "PEN-05",
+    "name": "Chew Jetty",
+    "local_name": "姓周橋",
+    "country": "Malaysia",
+    "city": "Penang",
+    "area": "Weld Quay, George Town",
+    "category": "Culture",
+    "subcategory": "Stilt village",
+    "pin_basis": "Chew Jetty, largest of the clan jetties",
+    "pin_status": "Reviewed",
+    "why_it_matters": "Waterfront stilt villages built by Chinese clans, still lived in today.",
+    "description": "From the 19th century, Chinese immigrant clans built wooden houses on stilts over the water along Weld Quay, each jetty belonging to a different clan. Chew Jetty is the largest and most visited, with homes, shrines and small shops along its boardwalk. The jetties are part of George Town's UNESCO World Heritage Site.",
+    "local_tip": "These are homes: visit before dusk, keep the noise down, and don't step into doorways.",
+    "best_time": "Late afternoon",
+    "time_needed": "45 min",
+    "cost_level": "Free",
+    "good_for": "Culture; photography",
+    "heads_up": "Residents ask visitors to respect posted visiting hours.",
+    "wikidata": "Q125397920",
+    "sources": "https://en.wikipedia.org/wiki/Clan_Jetties",
+    "last_verified": "2026-10-17"
+   }
+  }
+ ]
+}
